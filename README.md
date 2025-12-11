@@ -23,9 +23,8 @@ This portal helps **donors**, **recipients**, and **organizations** easily conne
 - Manage blood requests   
 
 ### ⭐ General Features
-- Clean and responsive UI (Bootstrap)  
+- Clean and responsive UI 
 - Real-time search for donors  
-- Email trigger support (if enabled)  
   
 
 ---
